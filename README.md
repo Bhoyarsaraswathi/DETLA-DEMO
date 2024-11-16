@@ -1,2 +1,2 @@
 # DETLA-DEMO
-This is the Demo for git Learning 
+This is the Demo for git Learning.
